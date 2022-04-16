@@ -144,7 +144,7 @@ router.AddTable([
     "/services",
     "/contact",
     "/contact-list",
-    "/products",
+    "/projects",
     "/register",
     "/login",
     "/edit"
